@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF Shoping Cart", "WPF Shoping Cart\WPF Shoping Cart.csproj", "{F9A9F134-F658-41C0-A538-AA219C223B3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9A9F134-F658-41C0-A538-AA219C223B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A9F134-F658-41C0-A538-AA219C223B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A9F134-F658-41C0-A538-AA219C223B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A9F134-F658-41C0-A538-AA219C223B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73FC10BA-CD27-4471-847A-CC6FA74E559C}
+	EndGlobalSection
+EndGlobal
